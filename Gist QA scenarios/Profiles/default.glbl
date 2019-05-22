@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Please change into your own account</description>
+      <initValue>'username'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Please change into your own account</description>
+      <initValue>'password'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Please change into your own account</description>
+      <initValue>'user@email.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Gist Description'</initValue>
+      <name>gistDesc</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'gistFilename.txt'</initValue>
+      <name>gistFilename</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'As a user, I want to create a public gist.'</initValue>
+      <name>gistContent</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'As a user, I want to create a public gist.\r\nAs a user, I want to edit an existing gist.\r\nAs a user, I want to delete an existing gist.\r\nAs a user, I want to see my list of gists.'</initValue>
+      <name>gistContentUpdate</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
